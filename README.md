@@ -38,22 +38,65 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+**Full Adder**
+
+![image](https://github.com/Ashera2004/FULL_ADDER_SUBTRACTOR/blob/main/fulladder_truth.jpg)
+
+**Full Subtractor**
+
+![image](https://github.com/Ashera2004/FULL_ADDER_SUBTRACTOR/blob/main/fullsub_truth.jpg)
+
 **Procedure**
 
 Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+**Full Adder**
+
+![image](https://github.com/Ashera2004/FULL_ADDER_SUBTRACTOR/blob/main/fulladder_code.jpg)
+
+**Full Subtractor**
+
+![image](https://github.com/Ashera2004/FULL_ADDER_SUBTRACTOR/blob/main/fullsub_code.png)
+
 
 **RTL Schematic**
 
+**Full Adder**
+
+![image](https://github.com/Ashera2004/FULL_ADDER_SUBTRACTOR/blob/main/fulladder_symbol.jpg)
+
+**Full Subtractor**
+
+![image](https://github.com/Ashera2004/FULL_ADDER_SUBTRACTOR/blob/main/fullsub_symbol.png)
+
 **Output Timing Waveform**
+
+**Full Adder**
+
+![image](https://github.com/Ashera2004/FULL_ADDER_SUBTRACTOR/blob/main/fulladder_waveform.jpg)
+
+**Full Subtractor**
+
+![image](https://github.com/Ashera2004/FULL_ADDER_SUBTRACTOR/blob/main/fullsub_waveform.jpg)
+
 
 **Result:**
 
+**Full Adder**
+
+![image](https://github.com/Ashera2004/FULL_ADDER_SUBTRACTOR/blob/main/fulladder_result.png)
+
+**Full Subtractor**
+
+![image](https://github.com/Ashera2004/FULL_ADDER_SUBTRACTOR/blob/main/fullsub_result.png)
+
+
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
+**Developed by:** A S Siddarth
+
+**Reg No.** 24010669
 
 
